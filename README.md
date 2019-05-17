@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Todo
 
-Things you may want to cover:
+## Introduction
 
-* Ruby version
+> This single-page to-do application features a fluid user interface that- by using JavaScript- allows users to rapidly add dynamic content.
 
-* System dependencies
+## Technologies
 
-* Configuration
+> * Ruby on Rails framework
+> * HTML
+> * CSS
+> * JavaScript
+> * jQuery
 
-* Database creation
+## Deployment
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> https://todo-kayla-anderson.herokuapp.com/
